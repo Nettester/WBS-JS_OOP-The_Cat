@@ -1,5 +1,4 @@
 # WBS-JS_OOP-The_Cat
-## The OO Cat
 
 ### The Object-Oriented Cat
 
